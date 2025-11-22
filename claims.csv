@@ -1,0 +1,11 @@
+claim_id,patient_name,age,gender,diagnosis_code,procedure_code,provider,claim_amount,insurance_pay,patient_pay,status,state
+C001,Huseyin Donmez,32,M,E11.9,99213,SSM Health,220,180,40,Approved,WI
+C002,Emily Carter,45,F,I10,99214,UPH Meriter,340,270,70,Approved,WI
+C003,Michael Brown,29,M,S93.4,73610,SSM Health,510,400,110,Pending,WI
+C004,Sophia Diaz,53,F,E78.5,80061,Prevea Health,160,120,40,Approved,WI
+C005,James Robinson,38,M,J20.9,71020,Dean Clinic,420,320,100,Denied,WI
+C006,Linda Howard,67,F,I25.10,93000,UPH Meriter,680,500,180,Approved,WI
+C007,Robert Lee,50,M,M54.5,72100,SSM Health,355,250,105,Pending,WI
+C008,Olivia Martin,31,F,K21.9,74220,Prevea Health,295,200,95,Approved,WI
+C009,Anthony Harris,60,M,I48.91,93005,Dean Clinic,750,600,150,Approved,WI
+C010,Ava Thompson,27,F,J02.9,87880,SSM Health,190,140,50,Approved,WI
